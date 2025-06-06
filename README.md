@@ -1,4 +1,4 @@
-# 🔐 PfSense Integrated with Wazuh - Open Source Incident Response Tool
+# 🔐 PfSense Integrated with Wazuh
 
 This project showcases how to integrate **pfSense**, a robust open-source firewall, with **Wazuh**, an open-source SIEM and intrusion detection system. The integration enables centralized monitoring, real-time alerting, and enhanced visibility for network security operations.
 
